@@ -1,0 +1,89 @@
+@charset "UTF-8";
+
+table#allList {
+    border-collapse: collapse; /* セルのボーダーを重ねて表示 */
+    margin:0 auto ;
+    width: 90vw; /* テーブルの幅を100%に設定 */
+    border: 1px solid brown; /* ボーダーのスタイルを指定 */
+    border-radius: 5px; /* 角を丸くする */
+    background-color: gainsboro;
+}
+table#insertData {
+    border-collapse: collapse; /* セルのボーダーを重ねて表示 */
+    margin:0 auto ;
+    width: 90vw; /* テーブルの幅を100%に設定 */
+    border: 1px solid brown; /* ボーダーのスタイルを指定 */
+    border-radius: 5px; /* 角を丸くする */
+    background-color: gainsboro;
+}
+
+table#pickup {
+    border-collapse: collapse; /* セルのボーダーを重ねて表示 */
+    margin:0 auto ;
+    width: 90vw; /* テーブルの幅を100%に設定 */
+    border: 1px solid brown; /* ボーダーのスタイルを指定 */
+    border-radius: 5px; /* 角を丸くする */
+    background-color: gainsboro;
+}
+
+table#pickup th, table#pickup td {
+    border: 1px solid brown; /* セルにボーダーを追加 */
+    text-align: left; /* テキストを左寄せに設定 */
+}
+
+table#insertData th, table#insertData td {
+    border: 1px solid brown; /* セルにボーダーを追加 */
+    text-align: left; /* テキストを左寄せに設定 */
+}
+
+table#allList th, table#allList td {
+    border: 1px solid brown; /* セルにボーダーを追加 */
+    padding: 8px; /* セル内の余白を設定 */
+    text-align: left; /* テキストを左寄せに設定 */
+}
+
+tr.Top th{
+	background-color: bisque;
+	color :black ;
+	text-align: center;
+}
+tr.childrendata td{
+	color: green;
+	text-align: center;
+	width:8%;
+}
+
+div.big1{
+	background-color: aquamarine;
+	display: flex;
+	justify-content: center;
+}
+div.big1 input{
+	width:60%;
+}
+div.big2{
+	margin:2% auto ;
+	background-color: beige;
+}
+div.big3{
+	margin:2% auto ;
+	background-color: beige;
+}
+div.hide{
+	display: flex;
+	justify-content: center;
+	opacity: 0.5;
+}
+div.box {
+  width: 200px;
+  height: 200px;
+  background-color: lightblue;
+  border-radius: 20px; /* 角を20px丸くする */
+}
+
+button.insert{
+	margin:0 auto ;
+	display: flex;
+	justify-content:center;
+	width: 10%;
+}

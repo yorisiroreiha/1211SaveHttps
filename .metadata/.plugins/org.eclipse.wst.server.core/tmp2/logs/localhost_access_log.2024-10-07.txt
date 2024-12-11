@@ -1,0 +1,9 @@
+127.0.0.1 - - [07/Oct/2024:12:33:09 +0900] "GET / HTTP/1.1" 404 896
+0:0:0:0:0:0:0:1 - - [07/Oct/2024:12:33:10 +0900] "GET /PlayerDataChecker/MakeNewGameCharcter HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [07/Oct/2024:12:33:10 +0900] "GET /PlayerDataChecker/AllPlayerCheck.doGet(org.apache.catalina.connector.RequestFacade@7147ab5f,org.apache.catalina.connector.ResponseFacade@7f805b07) HTTP/1.1" 404 1046
+0:0:0:0:0:0:0:1 - - [07/Oct/2024:12:33:10 +0900] "GET /favicon.ico HTTP/1.1" 404 907
+127.0.0.1 - - [07/Oct/2024:12:34:42 +0900] "GET / HTTP/1.1" 404 896
+0:0:0:0:0:0:0:1 - - [07/Oct/2024:12:34:43 +0900] "GET /PlayerDataChecker/MakeNewGameCharcter HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [07/Oct/2024:12:34:44 +0900] "GET /PlayerDataChecker/AllPlayerCheck HTTP/1.1" 200 3634
+0:0:0:0:0:0:0:1 - - [07/Oct/2024:12:34:44 +0900] "GET /PlayerDataChecker/css/Main.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Oct/2024:12:34:44 +0900] "GET /PlayerDataChecker/js/main.js HTTP/1.1" 304 -

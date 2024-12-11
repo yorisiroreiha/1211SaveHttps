@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="リソース名 &apos;anotherCSS/src/main/webapp/WEB-INF/view/body.jsp&apos; を &apos;BigImage.jsp&apos; に変更します" description="リソース &apos;body.jsp&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/view/body.jsp" name="BigImage.jsp" stamp="1725934484817" updateReferences="true"/>
+</session>

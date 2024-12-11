@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:UserRegisterApp" serverId="Tomcat10_Java21"/>
+  <module moduleId="org.eclipse.jst.jee.server:minato" serverId="Tomcat10_Java21"/>
+  <module moduleId="org.eclipse.jst.jee.server:TriGame" serverId="Tomcat10_Java21"/>
+  <module moduleId="org.eclipse.jst.jee.server:NumsLogic" serverId="Tomcat10_Java21"/>
+  <module moduleId="org.eclipse.jst.jee.server:Dokotubu" serverId="Tomcat10_Java21"/>
+  <module moduleId="org.eclipse.jst.jee.server:DBDokotubu" serverId="Tomcat10_Java21"/>
+  <module moduleId="org.eclipse.jst.jee.server:MovieApp" serverId="Tomcat10_Java21"/>
+  <module moduleId="org.eclipse.jst.jee.server:Tramp" serverId="Tomcat10_Java21"/>
+  <module moduleId="org.eclipse.jst.jee.server:BrithDay" serverId="Tomcat10_Java21"/>
+  <module moduleId="org.eclipse.jst.jee.server:HelthCheck" serverId="Tomcat10_Java21"/>
+  <module moduleId="org.eclipse.jst.jee.server:Example" serverId="Tomcat10_Java21"/>
+  <module moduleId="org.eclipse.jst.jee.server:LESSON" serverId="Tomcat10_Java21"/>
+  <module moduleId="org.eclipse.jst.jee.server:todoApp" serverId="Tomcat10_Java21"/>
+  <module moduleId="org.eclipse.jst.jee.server:ItemsApp" serverId="Tomcat10_Java21"/>
+  <module moduleId="org.eclipse.jst.jee.server:ejword" serverId="Tomcat10_Java21"/>
+  <module moduleId="org.eclipse.jst.jee.server:CollectYoutube" serverId="Tomcat10_Java21"/>
+  <module moduleId="org.eclipse.jst.jee.server:testClac" serverId="Tomcat10_Java21"/>
+</modules>

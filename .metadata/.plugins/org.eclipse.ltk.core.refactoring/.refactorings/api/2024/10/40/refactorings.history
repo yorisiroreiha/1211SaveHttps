@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="リソース名 &apos;api/src/main/java/dao/api/ApiApplication.java&apos; を &apos;DataApi.java&apos; に変更します" description="リソース &apos;ApiApplication.java&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/dao/api/ApiApplication.java" name="DataApi.java" stamp="1727741593178" updateReferences="true"/>
+</session>

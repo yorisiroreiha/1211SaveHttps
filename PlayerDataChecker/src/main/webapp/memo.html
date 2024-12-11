@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	id, name, pass, Strength, Constitution, dexterity, agility, intelligence, sensing, mentality, luck
+
+	
+				int id = rst.getInt("id");
+				String name  = rst.getString("name");
+				String pass = rst.getString("pass");
+				int STR = rst.getInt("Strength");
+				int CON = rst.getInt("Constitution");
+				int DEX = rst.getInt("dexterity");
+				int AGI = rst.getInt("agility");
+				int INT = rst.getInt("intelligence");
+				int SEC = rst.getInt("sensing");
+				int MET = rst.getInt("mentality");
+				int LUC = rst.getInt("luck");
+				
+psm.setInt(1,data.getId());
+psm.setString(2,data.getName());
+psm.setString(3,data.getPass());
+psm.setInt(4,data.getSTR());
+psm.setInt(5,data.getCON());
+psm.setInt(6,data.getDEX());
+psm.setInt(7,data.getAGI());
+psm.setInt(8,data.getINT());
+psm.setInt(9,data.getSEC());
+psm.setInt(10,data.getMET());
+psm.setInt(10,data.getLUC());
+
+
+</body>
+</html>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="&apos;EjwordDataSource.java&apos; を &apos;dao&apos; に移動" description="&apos;EjwordDataSource.java&apos; を &apos;dao&apos; に移動" destination="src/main/java/dao" element1="/CollectYoutube/src/main/java/dao/EjwordDataSource.java" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1726530471700" updateReferences="true"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="&apos;context.xml&apos; を &apos;META-INF&apos; に移動" description="&apos;context.xml&apos; を &apos;META-INF&apos; に移動" destination="src/main/webapp/META-INF" element1="/DBDokotubu/src/main/webapp/META-INF/context.xml" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1726021948544" updateReferences="true"/>
+</session>
